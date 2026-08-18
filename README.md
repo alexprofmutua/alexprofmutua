@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Alex
 
-<!--
-**alexprofmutua/alexprofmutua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer science student building real projects, learning cybersecurity, and becoming dangerously good one commit at a time.
 
-Here are some ideas to get you started:
+## My Current Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details open>
+  
+### Languages
+[![Languages](https://skillicons.dev/icons?i=java,python,js,html,css,bash)](https://skillicons.dev)
+
+### Backend & Data
+[![Backend](https://skillicons.dev/icons?i=flask,sqlite)](https://skillicons.dev)
+
+### Tools
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux)](https://skillicons.dev)
+
+</details>
+
+## Learning Now
+
+- Data structures and algorithms
+- Python project building
+- Cybersecurity labs
+- Linux and networking
+- Web app security
