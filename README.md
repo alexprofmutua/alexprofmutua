@@ -7,7 +7,7 @@ Computer science student building real projects, learning cybersecurity, and bec
 <details open>
   
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=java,python,js,html,css,bash)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,python,r,js,html,css,bash)](https://skillicons.dev)
 
 ### Backend & Data
 [![Backend](https://skillicons.dev/icons?i=flask,sqlite)](https://skillicons.dev)
