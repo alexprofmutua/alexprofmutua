@@ -1,6 +1,6 @@
 # Hi, I'm Alex
 
-Computer science student building real projects, learning cybersecurity, and becoming dangerously good one commit at a time.
+Computer science student building real projects, learning, and getting dangerously good, one commit at a time.
 
 ## My Current Stack
 
